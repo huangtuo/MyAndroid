@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false" android:state_selected="false">
+        <color android:color="@color/button_not_clickable_color"/>
+    </item>
+    <item android:state_enabled="false" android:state_selected="true">
+        <color android:color="@color/button_disabled_color"/>
+    </item>
+    <item android:state_pressed="true">
+        <color android:color="@color/button_pressed_color"/>
+    </item>
+    <item>
+        <color android:color="@color/button_normal_color" />
+    </item>
+
+
+</selector>

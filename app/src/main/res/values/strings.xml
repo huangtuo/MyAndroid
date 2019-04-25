@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAndroid</string>
+
+    <string name="mis_action_button_string">%1$s(%2$d/%3$d)</string>
+</resources>

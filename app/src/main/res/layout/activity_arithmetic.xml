@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="none">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/arith_btn_01"
+            style="@style/common_btn_corner"
+            android:layout_margin="15dp"
+            android:text="字符串单词按空格翻转" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/arith_btn_02"
+            style="@style/common_btn_corner"
+            android:layout_margin="15dp"
+            android:text="奇数在偶数前" />
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/arith_btn_03"
+            style="@style/common_btn_corner"
+            android:layout_margin="15dp"
+            android:text="照片墙" />
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>
+
+

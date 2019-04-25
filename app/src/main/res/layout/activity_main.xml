@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <com.demo.ht.myandroid.widget.XCDropDownListView
+        android:id="@+id/drop_down_list_view"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/main_btn_fullSu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="全屏"
+        />
+    <Button
+        android:id="@+id/main_btn_flowlayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="flowlayout多选"
+        />
+    <Button
+        android:id="@+id/main_btn_callPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="拨打电话"
+        />
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/main_btn_kotlin"
+        style="@style/common_btn_wrap"
+        android:text="Kotlin"
+        />
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/main_btn_service"
+        style="@style/common_btn_wrap"
+        android:text="进程报活"
+        />
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/main_btn_view"
+        style="@style/common_btn_wrap"
+        android:text="自定义View"
+        />
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/main_btn_dagger"
+        style="@style/common_btn_wrap"
+        android:text="Dagger2"
+        />
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/main_btn_arithmetic"
+        android:layout_marginTop="10dp"
+        style="@style/common_btn_wrap"
+        android:text="算法"
+        />
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/main_btn_toWeb"
+        android:layout_marginTop="10dp"
+        style="@style/common_btn_wrap"
+        android:text="toWeb"
+        />
+
+</LinearLayout>

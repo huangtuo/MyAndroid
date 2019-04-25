@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#ffd63138</color>
+    <color name="colorPrimary">#ffd63138</color>
+    <color name="colorPrimaryDark">#ffd63138</color>
+
+    <color name="color_white">#ffffffff</color>
+    <color name="color_black">#ff000000</color>
+
+    <color name="dialog_bg_color">#FFFFFF</color>
+    <color name="float_transparent">#00000000</color>
+    <color name="half_transparent">#22000000</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+
+    <color name="bg_page">#fffafafa</color>
+    <color name="bg_red">#ffd63138</color>
+    <color name="bg_yellow">#ffe9e4a2</color>
+    <color name="bg_red_press">#ffb42138</color>
+    <color name="bg_red_checked">#ff520D1F</color>
+
+    <color name="text_color_yellow">#fff7d90f</color>
+    <color name="text_color_red">#ffd63138</color>
+    <color name="text_color_blue">#ff1680e5</color>
+    <color name="text_color_green">#ff39cd4a</color>
+    <color name="text_color_black">#ff000000</color>
+    <color name="text_color_3">#333333</color>
+    <color name="text_color_6">#666666</color>
+    <color name="text_color_9">#999999</color>
+    <color name="text_color_c">#cccccc</color>
+
+
+    <color name="color_kedu">#ff989898</color>
+    <color name="color_keduzhi">#ff6b6b6b</color>
+
+    <color name="divider_line">#ffefefef</color>
+
+    <!-- 按钮颜色 -->
+    <color name="button_disabled_color">#c6cedb</color>
+    <color name="button_normal_color">#ffd63138</color>
+    <color name="button_not_clickable_color">#999999</color>
+    <color name="button_pressed_color">#ffb42138</color>
+    <color name="button_text_normal_color">#ffffff</color>
+    <color name="button_text_not_clickable_color">#99ffffff</color>
+
+</resources>
